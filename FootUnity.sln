@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityAPI", "IdentityAPI\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FootAPI", "FootAPI\FootAPI.csproj", "{9FD2A94D-7E5C-4213-82D3-381D1D823BA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneralLibrary", "GeneralLibrary\GeneralLibrary.csproj", "{62AE075C-F4D3-46DC-8A02-2337EB1AF41D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneralLibrary", "GeneralLibrary\GeneralLibrary.csproj", "{62AE075C-F4D3-46DC-8A02-2337EB1AF41D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FC54B92D-BDC3-4C7F-BD19-CAF3380569A7}"
 	ProjectSection(SolutionItems) = preProject
